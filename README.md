@@ -28,14 +28,14 @@ I took a time to develop business questions that management could be needing ans
   <tr>
     <th class="tg-c3ow">1. </th>
     <th class="tg-c3ow">Business Question </th>
-    <th class="tg-0pky">SQL_Solution</th>
+    <th class="tg-0pky">Data Expert SQL_Solutions</th>
   </tr>
 </thead>
 <tbody>
   <tr>
     <td class="tg-0pky">2. </td>
-    <td class="tg-0pky"> Get and display ONLY the successful deals over the two business years.</td>
-    <td class="tg-0pky"><a href="https://github.com/nich02/Enalyzing-CRM-Database-with-SQL-/blob/main/QueryAnswers/Successful%20deals" target="_blank" rel="noopener noreferrer">Successful deals</a></td>
+    <td class="tg-0pky"> Business qustions</td>
+    <td class="tg-0pky"><a href="https://github.com/nich02/Order-Sales-Analysis-with-Athena/blob/main/CustomerDataAnalysisSQL.ipynb" target="_blank" rel="noopener noreferrer">Expert SQL Solution</a></td>
   </tr>
   
   <tr>
